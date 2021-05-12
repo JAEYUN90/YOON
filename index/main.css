@@ -1,0 +1,13 @@
+body {
+  margin:0;
+}
+
+body {
+    background-color:#111;
+    color: #999;
+}
+
+.portrait {
+    background-image: url(index/90x120.jpg);
+    height: 200px;
+}
